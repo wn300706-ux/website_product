@@ -1,0 +1,21 @@
+div {
+  background-color: green;
+  width: 200px;
+  border: 10px groove red;
+  padding: 20px;
+  margin: 50px;
+}
+h2 {
+  background-color: yellow;
+}
+h3 {
+  background-color: white;
+}
+p {
+  background-color: orange;
+  width: 5px;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+}
